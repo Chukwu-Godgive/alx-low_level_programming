@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $CFILE|c
+export $CFILE=c
