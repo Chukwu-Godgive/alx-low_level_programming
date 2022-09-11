@@ -1,5 +1,7 @@
 #include <stdio.h>
-/*How to use puts to print*/
+/*
+ * Description: How to use puts to print in C
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
