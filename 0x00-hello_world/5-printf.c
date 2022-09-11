@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - entery point
- * description: How to print using printf in C
- * return 0 always
+ * Description: How to print using printf in C
+ * Return: 0 always
  */
 int main(void)
 {
