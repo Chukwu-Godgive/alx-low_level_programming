@@ -7,9 +7,9 @@
  * @src: The source buffer to copy characters from.
  * @n: The number of bytes to copy from @src.
  *
- * Return: A pointer to the destination buffer @dest.
+ * Return: A pointer to the dest
  */
-void *_memcpy(void *dest, const void *src, size_t n)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int index;
 	unsigned char *destination = dest;
