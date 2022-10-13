@@ -5,7 +5,7 @@ where they point in virtual memory, and how to use them.
 
 ## Header Files :file_folder:
 
-* [main.h](./main.h): Header file containing prototypes
+* [function_pointers.h](./function_pointers.h): Header file containing prototypes
 for all functions written for programs 0-2 of the project.
 
 | File                 | Prototype                                                            |

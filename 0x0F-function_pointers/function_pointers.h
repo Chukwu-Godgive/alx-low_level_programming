@@ -2,9 +2,9 @@
 #define FUNCTION_POINTERS_H
 
 /*
- * File: main.h
+ * File: function_pointers.h
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x0F-function_pointers directory.
+ *       used in the 0x0E-function_pointers directory.
  */
 
 #include <stdlib.h>
